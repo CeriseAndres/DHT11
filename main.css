@@ -1,0 +1,14 @@
+#termo{
+  position: absolute;
+  display: block;
+}
+
+.rouge{
+  background-color: red;
+  width : 10px;
+  height : 20px;
+  content: "";
+  position: relative;
+  top: 435px;
+  left: 45px;
+}
