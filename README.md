@@ -1,2 +1,2 @@
 # DHT11
-Mon objet presque connecté
+Mon objet connecté
